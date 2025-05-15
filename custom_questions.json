@@ -5,7 +5,7 @@
     "questions": [
       {
         "text": "Which language is used for iOS development?",
-        "answer": "2",
+        "answer": "3",
         "answers": ["Python", "Java", "Swift", "Ruby"]
       }
     ]
